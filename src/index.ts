@@ -54,7 +54,7 @@ class ObservableAsync {
 (() => {
     new SetTimeoutAsync();
 
-    new PromiseAsync();
+    // new PromiseAsync();
 
-    new ObservableAsync();
+    // new ObservableAsync();
 });
